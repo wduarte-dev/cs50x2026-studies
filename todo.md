@@ -1,1 +1,2 @@
 - [ ] Make a Bubble Sort in C language from scratch 
+- [ ] Make a Merge Sort in C language from scratch 
